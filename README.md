@@ -25,7 +25,7 @@ to create charts. I added those charts to My Dashboards.
 
 *Please download the notebook file (Data.ipynb) on your system.
 
-Now there multpile alternatives to achieve the alternatives: (P.S. - This is only based upon my research)
+Now there multpile alternatives to achieve the objective: (P.S. - This is only based upon my research)
 
 1. Create the dashboard in the notebook itself and upload it to the community cloud. 
     *You will need a to register and enter the username and API Key for the same in notebook.
