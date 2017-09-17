@@ -52,7 +52,7 @@ Now there multpile alternatives to achieve the objective: (P.S. - This is only b
     
  -- Then I need to set my data to be updated using peristent queries with Plotly 2.0 and the Plotly Database Connector. 
     Visit : https://help.plot.ly/database-connectors/schedule-query/
-    (Your connector will update your data periodically and you have several choices when it comes to the refresh rate of your data. Click on the dropdown above the grid as shown below and choose a refresh rate that will be suitable. Here its 1 hour.)
+    (Your connector will update your data periodically and you have several choices when it comes to the refresh rate of your data. Click on the dropdown above the grid and choose a refresh rate that will be suitable. Here its 1 hour.)
     
     Finally we need to Authorize the connector and schedule the query.
     
@@ -99,3 +99,4 @@ for example
         
                 
   Apart form Python implementation, a separate implementation of R visualization is also provided in "Visualization.R".
+  The Shiny framework has been used to create dashboards using Crosstalk library which can be inbuilt as an API or a widget on a webpage.
